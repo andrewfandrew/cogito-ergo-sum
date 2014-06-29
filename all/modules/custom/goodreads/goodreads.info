@@ -1,0 +1,4 @@
+name = "Goodreads Bookshelf"
+description = "imports and displays data from the goodreads web site in blocks"
+core = 6.x
+php = 5.1
